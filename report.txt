@@ -1,0 +1,13 @@
+Title
+
+Priority
+
+Environment
+
+Description (precondition, steps to reproduce)
+
+Expected result
+
+Actual result
+
+Attachments
